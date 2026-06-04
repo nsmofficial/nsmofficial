@@ -111,12 +111,6 @@
   <a href="mailto:sahilnavadiya8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" />
-  </a>
 </p>
 
 <!-- =========================================================
