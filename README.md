@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nsmofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -101,23 +101,23 @@
 - **🌦️ Weather Prediction System** — ML model forecasting temperature & humidity from historical data, evaluated with MAE and R². _scikit-learn · Pandas · Random Forest_
 - **🖼️ Image Classifier (Deep Learning)** — CNN image classifier benchmarking VGG16 and ResNet18 architectures. _PyTorch_
 
-> 💡 Tip: replace each project's name with a link to its repo, e.g. `[DocGPT](https://github.com/YOUR_GITHUB_USERNAME/docgpt)`, and pin them on your profile via **"Customize your pins"**.
+> 💡 Tip: replace each project's name with a link to its repo, e.g. `[DocGPT](https://github.com/nsmofficial/docgpt)`, and pin them on your profile via **"Customize your pins"**.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsmofficial&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsmofficial&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=nsmofficial&hide_border=true&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nsmofficial&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
 </p>
 
 ---
