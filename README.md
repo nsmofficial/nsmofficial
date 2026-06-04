@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer • RAG & Retrieval Systems • Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%40+DRC+Infotech;Building+production-grade+RAG+systems;Semantic+Search+%7C+Vector+DBs+%7C+NLP;Solved+400%2B+DSA+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%40+DRC+Infotech;Building+production-grade+RAG+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Model+Tuning+%26+Feature+Engineering;Semantic+Search+over+million-scale+data;Solved+400%2B+DSA+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
 - 🧠 I've built RAG chatbots, retrieval pipelines over **1M+ record datasets** with FAISS, NLP-driven verification assistants, and ML models for business-critical pricing.
 - 🤖 Outside core work I explore **computer vision** and **blockchain** side projects.
 - ⚡ Fun fact: I've solved **400+ DSA problems** on LeetCode & GeeksforGeeks.
+- 👀 Check out my portfolio at **[nsmofficial.me](https://nsmofficial.me)** _(best viewed on desktop for now)_
 - 📫 Reach me at **sahilnavadiya8@gmail.com**
 
 ---
@@ -41,6 +42,25 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
+
+**AI / ML Specializations**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EF6C00?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-D81B60?style=for-the-badge&logoColor=white)
+![Model Tuning](https://img.shields.io/badge/Model%20Tuning-5E35B1?style=for-the-badge&logoColor=white)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-7E57C2?style=for-the-badge&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-3949AB?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-00897B?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-00838F?style=for-the-badge&logoColor=white)
+![Embeddings & Vector Search](https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-0277BD?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-283593?style=for-the-badge&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-455A64?style=for-the-badge&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-C62828?style=for-the-badge&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2E7D32?style=for-the-badge&logoColor=white)
+![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-F9A825?style=for-the-badge&logoColor=white)
 
 **Data & Analytics**
 
@@ -105,6 +125,9 @@
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://nsmofficial.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sahil-navadiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
