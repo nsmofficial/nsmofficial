@@ -103,24 +103,6 @@
 
 > 💡 Tip: replace each project's name with a link to its repo, e.g. `[DocGPT](https://github.com/nsmofficial/docgpt)`, and pin them on your profile via **"Customize your pins"**.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsmofficial&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsmofficial&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nsmofficial&hide_border=true&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nsmofficial&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
