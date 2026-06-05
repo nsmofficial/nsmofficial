@@ -1,25 +1,58 @@
 <h1 align="center">Hi 👋, I'm Sahil Navadiya</h1>
-<h3 align="center">AI/ML Engineer • RAG & Retrieval Systems • Python</h3>
+<h3 align="center">AI/ML Engineer · RAG & Retrieval Systems · Applied ML on Production</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%40+DRC+Infotech;Building+production-grade+RAG+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Model+Tuning+%26+Feature+Engineering;Semantic+Search+over+million-scale+data;Solved+400%2B+DSA+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+DRC+Infotech;Building+production-grade+RAG+%26+semantic+search;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Time-series+forecasting+%26+explainable+ML;Retrieval+over+million-scale+datasets;400%2B+DSA+problems+solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nsmofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://nsmofficial.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahil-navadiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahilnavadiya8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nsmofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently an **AI/ML Engineer at DRC Infotech**, shipping production-grade AI systems.
-- 🌱 I work on **Retrieval-Augmented Generation (RAG)**, semantic search, and intelligent automation across the full ML lifecycle — embedding pipelines, NLP model fine-tuning, gradient-boosting, and FastAPI services.
-- 🧠 I've built RAG chatbots, retrieval pipelines over **1M+ record datasets** with FAISS, NLP-driven verification assistants, and ML models for business-critical pricing.
-- 🤖 Outside core work I explore **computer vision** and **blockchain** side projects.
-- ⚡ Fun fact: I've solved **400+ DSA problems** on LeetCode & GeeksforGeeks.
-- 👀 Check out my portfolio at **[nsmofficial.me](https://nsmofficial.me)** _(best viewed on desktop for now)_
-- 📫 Reach me at **sahilnavadiya8@gmail.com**
+I'm an **AI/ML Engineer at DRC Infotech**, building practical, production-grade systems around **Retrieval-Augmented Generation (RAG)**, semantic search, and intelligent automation. I enjoy the *engineering* side of AI as much as the modeling — embedding pipelines, vector databases, FastAPI services, and the small details that make a system reliable in real use.
+
+- 🔭 Currently shipping in-house AI products: a company chatbot (**DharmAI**), an **XGBoost diamond-pricing model**, and **n8n** automation workflows.
+- 🧠 Across roles I've built RAG chatbots, retrieval pipelines over **1M+ record** datasets with FAISS, an NLP-driven call-center verification assistant, and ML models for business-critical pricing.
+- 🌱 Comfortable across the full ML lifecycle — data → features → model tuning → deployment — and exploring **computer vision** and **blockchain** on the side.
+- ⚡ Solved **400+ DSA problems** on LeetCode & GeeksforGeeks.
+- 📫 Reach me at **sahilnavadiya8@gmail.com** · Portfolio: **[nsmofficial.me](https://nsmofficial.me)**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧪 [FinRAG-Bench](https://github.com/nsmofficial/finrag-bench) — RAG evaluation framework for financial filings
+An open-source framework for **benchmarking RAG pipelines** over SEC 10-K/10-Q reports. Implements **12 retrieval strategies** — BM25, dense, hybrid + reranking, HyDE, multi-query, query decomposition, contextual retrieval and GraphRAG — scored with **RAGAS** metrics and an **LLM-as-judge validated against human labels (Cohen's κ)**. Ships with a FastAPI service, Qdrant/FAISS vector stores, Docker, and a Streamlit dashboard.
+<br/>*Python · LangChain · Qdrant / FAISS · RAGAS · FastAPI · Docker*
+
+#### 🧾 [customGPT — Azure](https://github.com/nsmofficial/customGPT_Azure-main) — Serverless "chat with your PDF" API
+A **serverless document-Q&A backend** on Azure Functions. Extracts text with **PyMuPDF**, chunks and embeds it via **LangChain + OpenAI**, retrieves the most relevant passages from a **FAISS** index, and answers through a `ConversationalRetrievalChain` — with **CI/CD to Azure** via GitHub Actions.
+<br/>*Python · Azure Functions · LangChain · OpenAI · FAISS*
+
+#### 💎 [Diamond Analysis & Forecasting](https://github.com/nsmofficial/diamond_analysis_project) — Explainable pricing ML
+A **Streamlit app for diamond discount forecasting** that predicts the next likely discount for individual stones *and* whole market categories using **XGBoost**, explains every prediction with **SHAP**, and exports formatted Excel reports — built around a real diamond-industry pricing problem.
+<br/>*Python · Streamlit · XGBoost · SHAP · Plotly*
+
+#### 🚗 [Dealership KPI Forecasting](https://github.com/nsmofficial/Car-Sales-Prediction) — Time-series + business intelligence
+An **automotive-dealership KPI forecasting system** that automatically selects the best time-series model per KPI (**ARIMA, ETS, linear, seasonal-naive**) via cross-validation, scores each forecast's reliability, and surfaces it all in an interactive **Streamlit** dashboard with correlation heatmaps and what-if analysis.
+<br/>*Python · Streamlit · statsmodels · Pandas*
+
+#### 🖼️ [Image Classifier (Deep Learning)](https://github.com/nsmofficial/Image-Classifier-Identify-Dog-Breeds-master) — Computer vision
+A **CNN image-classification pipeline** that benchmarks pretrained **AlexNet, VGG and ResNet** architectures to identify dog breeds and compare per-model accuracy — a hands-on study in transfer learning and model evaluation.
+<br/>*Python · PyTorch · CNNs · Transfer Learning*
+
+#### 🚲 [Bike-Sharing Demand (AutoML)](https://github.com/nsmofficial/Predict-Bike-Sharing-Demand-with-AutoGluon-main) — Tabular forecasting
+An **AutoML regression project** for the Kaggle *Bike Sharing Demand* competition using **AutoGluon**: a baseline ensemble, datetime feature engineering, and hyperparameter tuning with **Ray Tune** — with each iteration's impact documented in a report.
+<br/>*Python · AutoGluon · Pandas · Kaggle*
+
+> 📂 More projects on my [repositories page](https://github.com/nsmofficial?tab=repositories).
 
 ---
 
@@ -30,8 +63,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML & Deep Learning**
 
@@ -39,49 +70,26 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
 
-**AI / ML Specializations**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EF6C00?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-D81B60?style=for-the-badge&logoColor=white)
-![Model Tuning](https://img.shields.io/badge/Model%20Tuning-5E35B1?style=for-the-badge&logoColor=white)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-7E57C2?style=for-the-badge&logoColor=white)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-3949AB?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-00897B?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-00838F?style=for-the-badge&logoColor=white)
-![Embeddings & Vector Search](https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-0277BD?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-283593?style=for-the-badge&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-455A64?style=for-the-badge&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-C62828?style=for-the-badge&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2E7D32?style=for-the-badge&logoColor=white)
-![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-F9A825?style=for-the-badge&logoColor=white)
-
-**Data & Analytics**
+**Data & Vector Search**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS%20(Vector%20DB)-0668E1?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Web & Frameworks**
+**Web & Deployment**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & Platforms**
 
@@ -92,38 +100,23 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+> **Focus areas:** RAG & retrieval systems · Semantic search & embeddings · NLP · Time-series forecasting · Explainable ML (SHAP) · Computer vision · Workflow automation
+
 ---
 
-### 🚀 Featured Projects
+### 📊 GitHub Stats
 
-- **🧾 DocGPT** — AI Android app (Flutter + Python) that lets users upload PDFs and ask questions, with conversational memory for follow-ups. _LLMs · Flutter · Python_
-- **🐍 Serpentine Signals** — A web-based Snake game controlled by real-time hand gestures via webcam. _Next.js · MediaPipe · Computer Vision_
-- **🌦️ Weather Prediction System** — ML model forecasting temperature & humidity from historical data, evaluated with MAE and R². _scikit-learn · Pandas · Random Forest_
-- **🖼️ Image Classifier (Deep Learning)** — CNN image classifier benchmarking VGG16 and ResNet18 architectures. _PyTorch_
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsmofficial&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsmofficial&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
 
-> 💡 Tip: replace each project's name with a link to its repo, e.g. `[DocGPT](https://github.com/nsmofficial/docgpt)`, and pin them on your profile via **"Customize your pins"**.
-
+---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://nsmofficial.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahil-navadiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:sahilnavadiya8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
+<p align="center">
+  <a href="https://nsmofficial.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahil-navadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahilnavadiya8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
-<!-- =========================================================
-OPTIONAL: Spotify "Now Playing" widget (the one from the screenshot you liked).
-It needs the spotify-github-profile deployment we discussed (Spotify dev app +
-Vercel + Firebase). Once deployed, uncomment the lines below and swap in your URLs.
-
-### 🎧 Listening to this right now, or last thing I played
-
-[![Spotify](https://YOUR_VERCEL_URL.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-========================================================= -->
