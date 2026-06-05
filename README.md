@@ -104,15 +104,6 @@ An **AutoML regression project** for the Kaggle *Bike Sharing Demand* competitio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsmofficial&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsmofficial&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
